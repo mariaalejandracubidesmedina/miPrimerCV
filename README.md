@@ -1,2 +1,2 @@
 # miPrimerCV
-esre repo es de prueba
+este repo es de prueba
