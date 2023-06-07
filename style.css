@@ -1,0 +1,25 @@
+/*Selector de etiqueta*/
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+/*Selector de clase*/
+.azul{
+    background-color: blue;
+}
+/*Selector de id*/
+#titulosegundo{
+    font-size: 100px;
+    color: red;
+}
+#texto{
+    color:yellow;
+}
+#imagenbandeja{
+    border-radius: 25px;
+}
